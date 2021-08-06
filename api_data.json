@@ -103,7 +103,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "公共组",
-    "name": "PostPublicCourse"
+    "name": "PostPublicCourse",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/public/course"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -195,7 +200,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "公共组",
-    "name": "PostStudentRegister"
+    "name": "PostStudentRegister",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/student/register"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -287,7 +297,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "公共组",
-    "name": "PostTeacherRegister"
+    "name": "PostTeacherRegister",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/register"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -393,7 +408,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "教师组",
-    "name": "PostTeacherAchievement"
+    "name": "PostTeacherAchievement",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/achievement"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -492,7 +512,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "教师组",
-    "name": "PostTeacherAdmission"
+    "name": "PostTeacherAdmission",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/admission"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -591,7 +616,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "教师组",
-    "name": "PostTeacherAudit"
+    "name": "PostTeacherAudit",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/audit"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -690,7 +720,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "教师组",
-    "name": "PostTeacherLogin"
+    "name": "PostTeacherLogin",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/login"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -964,7 +999,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "教师组",
-    "name": "PostTeacherStudentInformation"
+    "name": "PostTeacherStudentInformation",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/student/information"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -1112,7 +1152,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "教师组",
-    "name": "PostTeacherStudentList"
+    "name": "PostTeacherStudentList",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/teacher/student/list"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -1211,7 +1256,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "考生组",
-    "name": "PostStudentLogin"
+    "name": "PostStudentLogin",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/student/login"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -1317,7 +1367,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "考生组",
-    "name": "PostUserAchievement"
+    "name": "PostUserAchievement",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/user/achievement"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -1416,7 +1471,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "考生组",
-    "name": "PostUserAdmissionStatu"
+    "name": "PostUserAdmissionStatu",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/user/admission/statu"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -1515,7 +1575,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "考生组",
-    "name": "PostUserAdultStatu"
+    "name": "PostUserAdultStatu",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/user/adult/statu"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -1782,7 +1847,12 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "考生组",
-    "name": "PostUserInformation"
+    "name": "PostUserInformation",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/user/information"
+      }
+    ]
   },
   {
     "type": "POST",
@@ -2042,6 +2112,11 @@
     "version": "0.0.0",
     "filename": "src/doc.js",
     "groupTitle": "考生组",
-    "name": "PostUserUpload"
+    "name": "PostUserUpload",
+    "sampleRequest": [
+      {
+        "url": "http://111.229.179.231:8888/user/upload"
+      }
+    ]
   }
 ]
