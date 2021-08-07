@@ -95,7 +95,7 @@
       "examples": [
         {
           "title": "success-example",
-          "content": "[\n    {\n        \"statu\": 1,\n        \"msg\": \"查询成功\"\n    },\n    {\n        \"major\": \"法学\",\n        \"public_course\": \"大学英语\",\n        \"major_course\": \"宪法学\"\n    }\n]",
+          "content": "\n[\n    {\n        \"statu\": 1,\n        \"msg\": \"查询成功\"\n    },\n    {\n        \"major\": \"法学\",\n        \"public_course\": \"大学英语\",\n        \"major_course\": \"宪法学\"\n    }\n]",
           "type": "json"
         }
       ]

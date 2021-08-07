@@ -5,6 +5,10 @@
   "title": "专升本信息管理系统",
   "url": "http://111.229.179.231:8888",
   "sampleUrl": "http://111.229.179.231:8888",
+  "footer": {
+    "title": "专业代码说明",
+    "content": "<p><a href=\"./major.html\" target=\"_blank\">报考专业代码表点此</a></p>\n"
+  },
   "order": [
     "考生注册",
     "教师注册",
@@ -26,7 +30,7 @@
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2021-08-06T16:07:56.867Z",
+    "time": "2021-08-07T03:49:36.383Z",
     "url": "https://apidocjs.com",
     "version": "0.28.1"
   }
